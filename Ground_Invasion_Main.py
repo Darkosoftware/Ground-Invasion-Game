@@ -232,8 +232,8 @@ while True:
 			player.hideturtle()
 			enemy.hideturtle()
 			print("GAME OVER")
-			break	
-  if bulletstate == "fire":
+			break
+	if bulletstate == "fire":
 		y = bullet.ycor()
 		y += bulletspeed
 		bullet.sety(y)
