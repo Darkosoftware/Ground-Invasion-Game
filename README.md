@@ -9,7 +9,6 @@
 <br>As you destroy enemy tanks your score goes up, if the enemy tanks pass your tank your score will go down.</br>
 <br>Once an enemy tank rams your tank, the game is over!</br>
 <br>![alt text](https://raw.githubusercontent.com/Darkosoftware/Ground-Invasion-Game/main/Ingame.PNG)
-<br>To run this game make sure you have all the assets in one folder.</br>
 <br><h2>Known Issues</h2>
 <br>Sometimes enemy tanks respawn ontop of each other.</br>
 <br>When enemy tanks are destroyed their explosion/crater is shown above live tanks if they pass over.</br>
