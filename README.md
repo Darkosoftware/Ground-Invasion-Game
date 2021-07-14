@@ -7,6 +7,7 @@
 <br>Use the arrow keys to move your tank and the spacebar to shoot.</br>
 <br>As you destroy enemy tanks your score goes up, if the enemy tanks pass your tank your score will go down.</br>
 <br>Once an enemy tank rams your tank, the game is over!</br>
+<br>![alt text](https://raw.githubusercontent.com/Darkosoftware/Ground-Invasion-Game/main/Ingame.PNG)
 <br>To run this game make sure you have all the assets in one folder.</br>
 <br><h3>Known Issues</h3></br>
 <br>Sometimes enemy tanks respawn ontop of each other.</br>
