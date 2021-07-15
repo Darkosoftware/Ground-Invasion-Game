@@ -8,7 +8,6 @@ window = turtle.Screen()
 window.bgcolor("black")
 window.title("Ground Invasion")
 window.bgpic("background1.gif")
-
 window.tracer(0)
 
 turtle.register_shape("Player.gif")
@@ -105,7 +104,7 @@ timer_display.setposition(205,278)
 timerstring = "Timer: {}".format(timer)
 timer_display.write(timerstring, False, align="left", font=("Arial", 14,"normal"))
 timer_display.hideturtle()
-#create a time keeper This is my code!
+
 gameover = 0
 gameover_display = turtle.Turtle()
 gameover_display.speed(0)
@@ -127,7 +126,6 @@ def move_stop_right():
 def move_player():
 	x = player.xcor()
 	x += player.speed
-	
 	if x < -280:
 		x = -280
 	if x > 280:
